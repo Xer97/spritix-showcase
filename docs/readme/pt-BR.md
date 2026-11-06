@@ -8,9 +8,9 @@ Transforme um personagem em uma biblioteca de ações. O Spritix é uma ferramen
 
 **[Conheça o Spritix](https://spritix.ai/pt-BR)** · [Recursos e planos atuais](https://spritix.ai/pt-BR/pricing)
 
-[![Assista à apresentação de 80 segundos](../../showcase/launch/poster.jpg)](../../showcase/launch/spritix-showcase-80s.mp4)
+[![Assista à apresentação de 80 segundos](../../showcase/launch/poster.jpg)](https://www.youtube.com/watch?v=S2-RTmRhgJ0)
 
-**[Assista à apresentação de 80 segundos](../../showcase/launch/spritix-showcase-80s.mp4)** — Vídeo em inglês · 1920 × 1080 · MP4
+**[Assistir no YouTube](https://www.youtube.com/watch?v=S2-RTmRhgJ0)** — Vídeo em inglês · 1920 × 1080
 
 ## Sobre o Spritix
 

@@ -8,9 +8,9 @@ Créez une bibliothèque d’actions à partir d’un personnage. Spritix est un
 
 **[Découvrir Spritix](https://spritix.ai/fr)** · [Fonctionnalités et offres actuelles](https://spritix.ai/fr/pricing)
 
-[![Voir la présentation de 80 secondes](../../showcase/launch/poster.jpg)](../../showcase/launch/spritix-showcase-80s.mp4)
+[![Voir la présentation de 80 secondes](../../showcase/launch/poster.jpg)](https://www.youtube.com/watch?v=S2-RTmRhgJ0)
 
-**[Voir la présentation de 80 secondes](../../showcase/launch/spritix-showcase-80s.mp4)** — Vidéo en anglais · 1920 × 1080 · MP4
+**[Regarder sur YouTube](https://www.youtube.com/watch?v=S2-RTmRhgJ0)** — Vidéo en anglais · 1920 × 1080
 
 ## À propos de Spritix
 

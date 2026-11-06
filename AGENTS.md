@@ -1,12 +1,12 @@
 # Spritix Showcase — 公开案例与多语言产品介绍
 
-Markdown + JPEG + MP4
+Markdown + JPEG + YouTube
 
 ## 地图
 
 - `README.md`：英文主入口；产品说明与四个指定关键词锚文本的基准。
 - `docs/`：语言文档；各版本与英文保持产品事实一致。
-- `showcase/`：已授权公开的案例、预览及视频。
+- `showcase/`：已授权公开的案例、预览及 YouTube 视频入口。
 - `CONTRIBUTING.md`：案例与翻译的贡献边界。
 - `USAGE.md`：展示素材的使用说明；新增明确许可须限定到具体文件。
 - `.gitignore`：排除本机文件与环境配置。

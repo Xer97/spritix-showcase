@@ -8,9 +8,9 @@ Turn one character into an action library. Spritix is a browser-based workbench 
 
 **[Visit Spritix](https://spritix.ai)** · [Current features and plans](https://spritix.ai/pricing)
 
-[![Watch the 80-second showcase](showcase/launch/poster.jpg)](showcase/launch/spritix-showcase-80s.mp4)
+[![Watch the 80-second showcase](showcase/launch/poster.jpg)](https://www.youtube.com/watch?v=S2-RTmRhgJ0)
 
-**[Watch the 80-second showcase](showcase/launch/spritix-showcase-80s.mp4)** — English video · 1920 × 1080 · MP4
+**[Watch on YouTube](https://www.youtube.com/watch?v=S2-RTmRhgJ0)** — English video · 1920 × 1080
 
 ## About Spritix
 

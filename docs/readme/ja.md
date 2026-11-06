@@ -8,9 +8,9 @@
 
 **[Spritix を開く](https://spritix.ai/ja)** · [現在の機能とプラン](https://spritix.ai/ja/pricing)
 
-[![80 秒の紹介動画を見る](../../showcase/launch/poster.jpg)](../../showcase/launch/spritix-showcase-80s.mp4)
+[![80 秒の紹介動画を見る](../../showcase/launch/poster.jpg)](https://www.youtube.com/watch?v=S2-RTmRhgJ0)
 
-**[80 秒の紹介動画を見る](../../showcase/launch/spritix-showcase-80s.mp4)** — 英語の動画 · 1920 × 1080 · MP4
+**[YouTube で見る](https://www.youtube.com/watch?v=S2-RTmRhgJ0)** — 英語の動画 · 1920 × 1080
 
 ## Spritix について
 

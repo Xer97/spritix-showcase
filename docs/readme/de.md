@@ -8,9 +8,9 @@ Erstelle aus einem Charakter eine Sammlung von Aktionen. Spritix ist ein browser
 
 **[Spritix besuchen](https://spritix.ai/de)** · [Aktuelle Funktionen und Tarife](https://spritix.ai/de/pricing)
 
-[![80-sekündiges Präsentationsvideo ansehen](../../showcase/launch/poster.jpg)](../../showcase/launch/spritix-showcase-80s.mp4)
+[![80-sekündiges Präsentationsvideo ansehen](../../showcase/launch/poster.jpg)](https://www.youtube.com/watch?v=S2-RTmRhgJ0)
 
-**[80-sekündiges Präsentationsvideo ansehen](../../showcase/launch/spritix-showcase-80s.mp4)** — Video auf Englisch · 1920 × 1080 · MP4
+**[Auf YouTube ansehen](https://www.youtube.com/watch?v=S2-RTmRhgJ0)** — Video auf Englisch · 1920 × 1080
 
 ## Über Spritix
 

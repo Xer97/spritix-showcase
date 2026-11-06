@@ -8,9 +8,9 @@
 
 **[前往 Spritix](https://spritix.ai/zh-Hant)** · [目前功能與方案](https://spritix.ai/zh-Hant/pricing)
 
-[![觀看 80 秒案例影片](../../showcase/launch/poster.jpg)](../../showcase/launch/spritix-showcase-80s.mp4)
+[![觀看 80 秒案例影片](../../showcase/launch/poster.jpg)](https://www.youtube.com/watch?v=S2-RTmRhgJ0)
 
-**[觀看 80 秒案例影片](../../showcase/launch/spritix-showcase-80s.mp4)** — 英文影片 · 1920 × 1080 · MP4
+**[在 YouTube 觀看](https://www.youtube.com/watch?v=S2-RTmRhgJ0)** — 英文影片 · 1920 × 1080
 
 ## 關於 Spritix
 

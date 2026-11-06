@@ -8,9 +8,9 @@
 
 **[Spritix 방문](https://spritix.ai/ko)** · [현재 기능 및 요금제](https://spritix.ai/ko/pricing)
 
-[![80초 소개 영상 보기](../../showcase/launch/poster.jpg)](../../showcase/launch/spritix-showcase-80s.mp4)
+[![80초 소개 영상 보기](../../showcase/launch/poster.jpg)](https://www.youtube.com/watch?v=S2-RTmRhgJ0)
 
-**[80초 소개 영상 보기](../../showcase/launch/spritix-showcase-80s.mp4)** — 영어 영상 · 1920 × 1080 · MP4
+**[YouTube에서 보기](https://www.youtube.com/watch?v=S2-RTmRhgJ0)** — 영어 영상 · 1920 × 1080
 
 ## Spritix 소개
 

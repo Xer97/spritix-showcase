@@ -8,9 +8,9 @@ Trasforma un personaggio in una raccolta di azioni. Spritix è uno strumento nel
 
 **[Visita Spritix](https://spritix.ai/it)** · [Funzionalità e piani attuali](https://spritix.ai/it/pricing)
 
-[![Guarda la presentazione di 80 secondi](../../showcase/launch/poster.jpg)](../../showcase/launch/spritix-showcase-80s.mp4)
+[![Guarda la presentazione di 80 secondi](../../showcase/launch/poster.jpg)](https://www.youtube.com/watch?v=S2-RTmRhgJ0)
 
-**[Guarda la presentazione di 80 secondi](../../showcase/launch/spritix-showcase-80s.mp4)** — Video in inglese · 1920 × 1080 · MP4
+**[Guarda su YouTube](https://www.youtube.com/watch?v=S2-RTmRhgJ0)** — Video in inglese · 1920 × 1080
 
 ## Informazioni su Spritix
 

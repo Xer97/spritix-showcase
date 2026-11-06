@@ -8,9 +8,9 @@
 
 **[访问 Spritix](https://spritix.ai/zh)** · [当前功能与套餐](https://spritix.ai/zh/pricing)
 
-[![观看 80 秒案例视频](../../showcase/launch/poster.jpg)](../../showcase/launch/spritix-showcase-80s.mp4)
+[![观看 80 秒案例视频](../../showcase/launch/poster.jpg)](https://www.youtube.com/watch?v=S2-RTmRhgJ0)
 
-**[观看 80 秒案例视频](../../showcase/launch/spritix-showcase-80s.mp4)** — 英文视频 · 1920 × 1080 · MP4
+**[在 YouTube 观看](https://www.youtube.com/watch?v=S2-RTmRhgJ0)** — 英文视频 · 1920 × 1080
 
 ## 关于 Spritix
 
